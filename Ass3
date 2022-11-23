@@ -1,0 +1,11 @@
+print('write a program to print biggest of two numbers:')
+a=28
+b=18
+if a>b:
+    print('a is big')
+else:
+    print('b is big')
+    
+OUTPUT:
+write a program to print biggest of two numbers:
+a is big
